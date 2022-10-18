@@ -1,2 +1,8 @@
 new file
 add yes yes yes
+
+Task
+1. Create new branch "feature_fath"
+2. Create 3 file in that branch
+3. Push to branch
+4. Merge main and branch
